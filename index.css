@@ -1,0 +1,19 @@
+.content {
+  max-width: 500px;
+  border: solid rgb(245, 237, 237) 3px;
+  padding: 15px;
+  padding-top: 5px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+body {
+  background-color: #e5e4d7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 16% 20% 16% 20%;
+}
+h1 {
+  color: rgb(175, 111, 175);
+  font-size: 30px;
+}
